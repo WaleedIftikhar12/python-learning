@@ -1,0 +1,3 @@
+Hello Waleed!
+I am learning Python.
+I am practicing Python every day.
